@@ -13,5 +13,6 @@
     <string name="demo_tab_8">Jelly Bean</string>
     <string name="demo_tab_9">KitKat</string>
     <string name="demo_tab_10">Lollipop</string>
-
+    <string name="demo_title_custom_tab_icons1">Custom Tab Icons 1</string>
+    <string name="demo_tab_no_title">No Title</string>
 </resources>

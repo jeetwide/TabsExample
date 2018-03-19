@@ -15,6 +15,7 @@ public enum Demo {
   BASIC(R.string.demo_title_basic, R.layout.demo_basic);
 
 
+
  /* BASIC2(R.strintitleResIdg.demo_title_basic2, R.layout.demo_basic_title_offset_auto_center),
 
   SMART_INDICATOR(R.string.demo_title_smart_indicator, R.layout.demo_smart_indicator),
