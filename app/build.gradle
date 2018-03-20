@@ -27,6 +27,8 @@ dependencies {
     androidTestCompile 'com.android.support.test:runner:1.0.1'
     androidTestCompile 'com.android.support.test.espresso:espresso-core:3.0.1'
 
+    compile 'com.codevscolor.materialpreference:mp:0.2.1'
     compile 'com.ogaclejapan.smarttablayout:library:1.6.1@aar'
     compile project(path: ':utils-v4')
+    compile project(path: ':materialpreference')
 }

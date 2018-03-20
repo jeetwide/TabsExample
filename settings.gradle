@@ -1,1 +1,1 @@
-include ':app', ':utils-v4'
+include ':app', ':utils-v4', ':materialpreference'
