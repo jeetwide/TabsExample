@@ -4,12 +4,13 @@ apply plugin: 'com.github.dcendents.android-maven'
 apply plugin: 'com.github.hierynomus.license'
 
 android {
-  compileSdkVersion 26
-  buildToolsVersion '26.0.2'
+  compileSdkVersion rootProject.ext.compileSdkVersion
+  buildToolsVersion rootProject.ext.buildToolsVersion
 
   defaultConfig {
-    minSdkVersion 4
-    targetSdkVersion 24
+    minSdkVersion rootProject.ext.minSdkVersion
+    targetSdkVersion rootProject.ext.targetSdkVersion
+
     versionCode 16
     versionName "1.6.1"
 

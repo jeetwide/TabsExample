@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottom-bar" />
+            <option value="$PROJECT_DIR$/material-intro-screen" />
             <option value="$PROJECT_DIR$/materialpreference" />
             <option value="$PROJECT_DIR$/utils-v4" />
           </set>

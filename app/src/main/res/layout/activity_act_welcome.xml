@@ -24,6 +24,16 @@
         android:layout_height="wrap_content"
         android:text="Analytics"
         android:id="@+id/btn_analytics"/>
+  <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Intro Screens"
+        android:id="@+id/btn_intro"/>
+  <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bottom Bar"
+        android:id="@+id/btn_bottomBar"/>
 
 
 </LinearLayout>
