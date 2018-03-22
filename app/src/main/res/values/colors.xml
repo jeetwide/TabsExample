@@ -11,4 +11,5 @@
     <color name="primary">#3C515C</color>
     <color name="accent">#40C4FF</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="btnBackground">#e7e7e7</color>
 </resources>
